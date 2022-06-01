@@ -8,32 +8,32 @@
 
 @font-face {
     font-family: 'Poppins';
-    src: url(/Basic-Grid-Site/Fonts/Poppins-Regular.ttf);
+    src: url(/Grid/Fonts/Poppins-Regular.ttf);
 }
 
 @font-face {
     font-family: 'Poppins-Light';
-    src: url(/Basic-Grid-Site/Fonts/Poppins-Light.ttf);
+    src: url(/Grid/Fonts/Poppins-Light.ttf);
 }
 
 @font-face {
     font-family: 'Poppins-Bold';
-    src: url(/Basic-Grid-Site/Fonts/Poppins-Bold.ttf);
+    src: url(/Grid/Fonts/Poppins-Bold.ttf);
 }
 
 @font-face {
     font-family: 'Roboto';
-    src: url(/Basic-Grid-Site/Fonts/RobotoSlab-Regular.ttf);
+    src: url(/Grid/Fonts/RobotoSlab-Regular.ttf);
 }
 
 @font-face {
     font-family: 'Roboto-Light';
-    src: url(/Basic-Grid-Site/Fonts/RobotoSlab-Light.ttf);
+    src: url(/Grid/Fonts/RobotoSlab-Light.ttf);
 }
 
 @font-face {
     font-family: 'Roboto-Bold';
-    src: url(/Basic-Grid-Site/Fonts/RobotoSlab-Bold.ttf);
+    src: url(/Grid/Fonts/RobotoSlab-Bold.ttf);
 }
 
 a {
@@ -164,7 +164,7 @@ i {
 /* Hero */
 
 .hero {
-    background: url(/Basic-Grid-Site/Images/Photo\ Background\ Twitch\ Banner.png) no-repeat center center fixed;
+    background: url(/Grid/Images/Photo\ Background\ Twitch\ Banner.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
